@@ -35,4 +35,3 @@ Besides the information available in the interface that Andrea and Andrew provid
 11. Ability to begin a "standup", which is an X minute period where users can send messages that at the end of the period will automatically be collated and summarised to all users
 12. Ability to send message directly to a user (or group of users) via direct messaging (DM).
 
-The specific capabilities that need to be built for this project are described in the interface at the bottom. This is clearly a lot of features, but not all of them are to be implemented at once (see below)
